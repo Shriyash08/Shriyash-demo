@@ -1,4 +1,4 @@
 # Shriyash-demo
 This is my first Git Repository.
 <br>
-Author - Shriyash Pardeshi
+Author - Shriyash
